@@ -19,7 +19,7 @@ Users should be able to:
 
 #### Links
 
-- [Live Site URL](https://sharp-poitras-b3141c.netlify.app/)
+- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
 - [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/3-coloumn-preview-card-tOf5Kaj2Y)
 
 ## Challenge 2: NFT preview card component solution
@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 
-- [Live Site URL](https://stoic-beaver-0d76cb.netlify.app/)
+- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
 - [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/simple-card-using-basic-css-and-flexbox-O3Adho5Jo)
 
 
@@ -60,7 +60,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://goofy-franklin-c3f2da.netlify.app/)
+- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
 - [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/order-summery-responsive-component-YroLgmB1z)
 
 
@@ -80,7 +80,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Live Site URL](https://youthful-carson-bf93b6.netlify.app/)
+- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
 - [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/profile-card-component-CuBwojOLa)
 
 ## Chalenge 5: Stats preview card solution
@@ -99,6 +99,6 @@ Users should be able to:
 
 ### Links
 
+- [Live Site](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
 - [Solution](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-YXbloDRT2)
-- [Live Site](https://upbeat-aryabhata-a99247.netlify.app/)
 
