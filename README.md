@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 
-- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
+- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge2/)
 - [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/simple-card-using-basic-css-and-flexbox-O3Adho5Jo)
 
 
@@ -60,7 +60,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
+- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge3/)
 - [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/order-summery-responsive-component-YroLgmB1z)
 
 
@@ -80,7 +80,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
+- [Live Site URL](https://statuesque-cat-7a6cf3.netlify.app/challenge4/)
 - [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/profile-card-component-CuBwojOLa)
 
 ## Chalenge 5: Stats preview card solution
@@ -99,6 +99,6 @@ Users should be able to:
 
 ### Links
 
-- [Live Site](https://statuesque-cat-7a6cf3.netlify.app/challenge1/)
+- [Live Site](https://statuesque-cat-7a6cf3.netlify.app/challenge5/)
 - [Solution](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-YXbloDRT2)
 
